@@ -47,6 +47,13 @@ body {
     right: 20%;
   }
 
+body_2{
+    
+display: flex;
+justify-content: center;
+
+}
+
 icon{
 
     font-size:100px;
