@@ -42,7 +42,7 @@ body {
   
   /* Estilos para o botão "Não" */
   button:nth-of-type(2) {
-    background-color: #dc3545;
+    background-color: red;
     top: 80%;
     right: 20%;
   }
